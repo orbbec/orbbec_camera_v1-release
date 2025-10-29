@@ -1,3 +1,29 @@
+## orbbec_camera_v1 (humble) - 1.5.14-4
+
+The packages in the `orbbec_camera_v1` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble orbbec_camera_v1` on `Wed, 29 Oct 2025 06:30:31 -0000`
+
+These packages were released:
+- `orbbec_camera`
+- `orbbec_camera_msgs`
+- `orbbec_description`
+
+Version of package(s) in repository `orbbec_camera_v1`:
+
+- upstream repository: https://github.com/orbbec/OrbbecSDK_ROS2.git
+- release repository: https://github.com/orbbec/orbbec_camera_v1-release.git
+- rosdistro version: `1.5.14-1`
+- old version: `1.5.14-3`
+- new version: `1.5.14-4`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## orbbec_camera_v1 (humble) - 1.5.14-3
 
 The packages in the `orbbec_camera_v1` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble orbbec_camera_v1` on `Wed, 29 Oct 2025 06:16:20 -0000`
